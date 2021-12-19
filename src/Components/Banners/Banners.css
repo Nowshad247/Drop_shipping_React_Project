@@ -1,0 +1,16 @@
+.slick-thumb li{
+    padding: 30px;
+    margin-top: 30px !important
+   
+}
+.slick-dots{
+    list-style: none;
+    padding: 5px;
+    text-align: left;
+    left: -20px;
+}
+.slick-thumb li img{
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+}

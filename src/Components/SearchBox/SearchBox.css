@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.urlinput{
+    width: 70%;
+    font-size: 30px;
+    padding: 2px;
+}
+.button-submit{
+    background-color: #FEBD69 !important;
+    font-size: 25px;
+}
